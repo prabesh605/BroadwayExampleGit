@@ -1,5 +1,5 @@
 class NewFile {
   void test() {
-    print("to commit third");
+    print("to commit fourth");
   }
 }

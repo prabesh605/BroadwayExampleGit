@@ -3,3 +3,9 @@ class NewFile {
     print("to commit fifth");
   }
 }
+
+class File {
+  void dance() {
+    print("Dancing");
+  }
+}

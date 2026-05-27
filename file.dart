@@ -9,3 +9,15 @@ class File {
     print("Dancing");
   }
 }
+
+String animal() {
+  return "Dog";gi
+}
+
+String pet() {
+  return "Cat";
+}
+
+int number() {
+  return 10;
+}

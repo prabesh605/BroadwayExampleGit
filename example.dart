@@ -3,6 +3,7 @@ void main() {
     print("hello");
   }
 }
-void animal(){
-  
+
+void animal() {
+  print("My animal");
 }

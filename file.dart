@@ -8,16 +8,16 @@ class File {
   void dance() {
     print("Dancing");
   }
-}
 
-String animal() {
-  return "Dog";gi
-}
+  String animal() {
+    return "Dog";
+  }
 
-String pet() {
-  return "Cat";
-}
+  String pet() {
+    return "Cat";
+  }
 
-int number() {
-  return 10;
+  int number() {
+    return 10;
+  }
 }
